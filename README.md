@@ -35,3 +35,10 @@ beginnerprofilecard/
 ├── mypic.jpeg
 ├── mimg.jpg
 └── README.md
+🎯 Future Improvements
+
+Make the design fully responsive
+
+Add JavaScript interactivity
+
+Convert into a full portfolio website
