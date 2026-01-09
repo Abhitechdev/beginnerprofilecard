@@ -29,3 +29,9 @@ https://cse21at5a0501.github.io/beginnerprofilecard/
 ---
 
 ## 📂 Project Structure
+beginnerprofilecard/
+├── index.html
+├── style.css
+├── mypic.jpeg
+├── mimg.jpg
+└── README.md
