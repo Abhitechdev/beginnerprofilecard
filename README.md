@@ -30,7 +30,7 @@ https://cse21at5a0501.github.io/beginnerprofilecard/
 
 ## 📂 Project Structure
 beginnerprofilecard/
-1 index.html # Main HTML file
+1 index.html # Main HTML file\n
 2 style.css # Styling, transitions & animations
 3 mypic.jpeg # Profile picture
 4 mimg.jpg # Additional image
