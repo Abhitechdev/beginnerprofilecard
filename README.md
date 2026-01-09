@@ -30,11 +30,11 @@ https://cse21at5a0501.github.io/beginnerprofilecard/
 
 ## 📂 Project Structure
 beginnerprofilecard/
-├── index.html # Main HTML file
-├── style.css # Styling, transitions & animations
-├── mypic.jpeg # Profile picture
-├── mimg.jpg # Additional image
-└── README.md # Project documentation
+1 index.html # Main HTML file
+2 style.css # Styling, transitions & animations
+3 mypic.jpeg # Profile picture
+4 mimg.jpg # Additional image
+5 README.md # Project documentation
 
 Make the design fully responsive
 
