@@ -6,7 +6,7 @@ This project focuses on understanding webpage structure, styling, transitions, a
 ---
 
 ## 🔗 Live Demo
-https://cse21at5a0501.github.io/beginnerprofilecard/
+
 
 ---
 
