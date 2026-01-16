@@ -6,7 +6,7 @@ This project focuses on understanding webpage structure, styling, transitions, a
 ---
 
 ## 🔗 Live Demo
-
+https://abhitechdev.github.io/beginnerprofilecard/
 
 ---
 
